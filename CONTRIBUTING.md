@@ -2,6 +2,9 @@
 
 ## Contributor License Agreements
 
+1. [code help address](https://codelabs.developers.google.com/codelabs/android-navigation/index.html?index=..%2F..%2Findex&hl=zh-cn#0)
+2. [google document](https://developer.android.com/guide/navigation)
+
 We'd love to accept your sample apps and patches! Before we can take them, we
 have to jump a couple of legal hurdles.
 
