@@ -1,6 +1,8 @@
 # Android Navigation codelab
 
 Content: https://codelabs.developers.google.com/codelabs/android-navigation/
+1. [code help address](https://codelabs.developers.google.com/codelabs/android-navigation/index.html?index=..%2F..%2Findex&hl=zh-cn#0)
+2. [google document](https://developer.android.com/guide/navigation)
 
 License
 -------
